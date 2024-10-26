@@ -28,6 +28,16 @@ Rufusu açıyoruz.Flash belleğimizi takıyoruz.Aygıtımızı flash belleğimiz
 # 4.Disk Bölümü Ayarlama 
 Ubuntu yu windows dan farklı bir yere kuracağımız için ssd mizde bir disk ayırmamız gerekiyor.Bunu isterseniz Windows içinde isterseniz Boot menüsünden sonra yapabilirsiniz.Ben windows da yapmayı tercih ediyorum. O yüzden öncelikle başlata sağ tık yapıp disk yönetimine girmemiz gerekiyor.
 Gözüken boş alandan istediğimiz kadarını küçültüp bunu Ubuntu için ayıracağım.<br><br>
+![resim](resim5.png)
+
+Şimdi sırada bilgisayarı kapatıp Ubuntu yu kurmak var.Öncelikle bilgisayarı boot menüsüne sokmamız gerekiyor.
+
+# 5.Ubuntu Kurulum 
+- Flash belleğimizi bilgisayar kapalıyken takalım
+- bilgisayarımızı boot menüsüne sokalım
+- karşımıza çıkan seçeneklerden USB üzerinden başlatacağımız için UEFI: USB DISK olan seçeneği seçiyoruz.
+- Karşımıza grup versiyon açılacak.Bize ne yapmak istedğimizi soruyor. Biz Ubuntu yu indireceğimiz için Yry or Install Ubuntu seçeneğine gelip enter a basıyoruz.
+
 
 
 
