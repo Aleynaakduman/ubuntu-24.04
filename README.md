@@ -67,7 +67,7 @@ Bu ekranda, adınız, kullanıcı adı ve güçlü bir parola istenecektir. <br>
 5.13 Kurulum tamamlandıktan sonra bilgisayarınızı yeniden başlatmanız istenecektir.Bunun için restart now a tıklayın. <br><br>
 ![resim](r6.jpeg)<br><br>
 5.14 Yeniden başlattığınızda USB flash sürücünüzü cihazdan çıkarmanız istenecektir.Bunu yaptıktan sonra ENTER a basın.<br><br>
-![resim](r7.jpeg)<br><br>
+![resim](r7.png)<br><br>
 5.15 Adımlarımız bitti. Ubuntu kuruldu. <br><br>
 ![resim](r8.jpeg)<br><br>
 
