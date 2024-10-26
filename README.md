@@ -52,6 +52,19 @@ Gözüken boş alandan istediğimiz kadarını küçültüp bunu Ubuntu için ay
 ![resim](u6.jpeg)<br><br>
 5.7 Aşağıdaki ekranda, cihaz desteği ve performansı , ek medya desteğini arttırabilecek üçüncü taraf yazılımları yüklemeniz istenecektir. Bu kutuların her ikisini de işaretlemeniz önerilir.<br><br>
 ![resim](u7.jpeg)<br><br>
+5.8 Kurulum Türü <br>
+Bu ekran kurulumunuzu yapılandırmanıza olanak tanır.Ubuntu nun sabit diskinizdeki tek işletim sistemi olmasını istiyorsanız, Erase disk and install Ubuntu yu seçin. Biz diskimizde yer ayırdık ve halıhazırda başka bir işletim sistemimiz var o yüzden manuel seçiyoruz.<br><br>
+![resim](r1.jpeg)<br><br>
+5.9 Bilgilerimizi giriyoruz <br><br>
+![resim](r2.jpeg)<br><br>
+5.10 Giriş ayrıntılarını oluşturun <br>
+Bu ekranda, adınız, kullanıcı adı ve güçlü bir parola istenecektir. <br><br>
+![resim](r3.jpeg)<br><br>
+5.11 Harita ekranında konumunuzu ve saat diliminizi seçin.Bilgisayarınız internete bağlıysa otomatik olarak seçecektir. <br><br>
+![resim](r4.jpeg)<br><br>
+
+
+
 
 
 
