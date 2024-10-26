@@ -18,7 +18,17 @@ LTS sürümünü yüklüyoruz.Ubuntu'nun LTS ve LTS olmayan sürümleri arasınd
 
 # 2.Rufus Download 
 Rufus, USB anahtar/bellekler, hafıza kartları vb. gibi USB sürücüleri biçimlendirmeye ve önyüklemeli hale getirmeye yardımcı olan bir araçtır. Rufus kullanarak Ubuntu 24.04 LTS için önyüklenebilir bir USB oluşturmak basit bir işlemdir.<br>
-Bu [linkten](www.rufus.com) rufusun resmi sitesine gidebirisiniz.
+Bu [linkten](www.rufus.com) rufusun resmi sitesine gidebirisiniz.<br><br>
+![resim](resim3.png)
+
+# 3.Rufusu önyüklemeye hazır hale getirme
+Rufusu açıyoruz.Flash belleğimizi takıyoruz.Aygıtımızı flash belleğimizi seçiyourz. Önyükleme seçimine bilgisayarımıza indirdiğimiz ubuntu yu seçiyoruz.Başlat butonuna tıklıyoruz.Diske yazma işlemleri başlıyor.<br><br>
+![resim](resim_2024-10-26_231839525.png)
+
+# 4.Disk Bölümü Ayarlama 
+Ubuntu yu windows dan farklı bir yere kuracağımız için ssd mizde bir disk ayırmamız gerekiyor.Bunu isterseniz Windows içinde isterseniz Boot menüsünden sonra yapabilirsiniz.Ben windows da yapmayı tercih ediyorum. O yüzden öncelikle başlata sağ tık yapıp disk yönetimine girmemiz gerekiyor.
+Gözüken boş alandan istediğimiz kadarını küçültüp bunu Ubuntu için ayıracağım.<br><br>
+
 
 
 
