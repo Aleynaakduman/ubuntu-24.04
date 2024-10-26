@@ -38,6 +38,23 @@ Gözüken boş alandan istediğimiz kadarını küçültüp bunu Ubuntu için ay
 - karşımıza çıkan seçeneklerden USB üzerinden başlatacağımız için UEFI: USB DISK olan seçeneği seçiyoruz.
 - Karşımıza grup versiyon açılacak.Bize ne yapmak istedğimizi soruyor. Biz Ubuntu yu indireceğimiz için Yry or Install Ubuntu seçeneğine gelip enter a basıyoruz.
 
+5.1 Yükleyici başlatıldığında dilinizi seçmeniz istenecektir.<br><br>
+![resim](u1.jpeg)<br><br>
+5.1 Daha sonra ihtiyaç duyduğunuz erişebilirlik ayarlarını seçme seçeneği sunulur.<br><br>
+![resim](u2.jpeg)<br><br>
+5.3 Klavye Düzeninizi Seçin <br><br>
+![resim](u3.jpeg)<br><br>
+5.4 Ubuntuyu kurma veya deneme seçeneği karşımıza çıkacak. Kurma seçeneğine tıklıyoruz<br><br>
+![resim](u4.jpeg)<br><br>
+5.5 etkileşimli kurulum veya otomatik kurulum arasında seçim yapmamız istenecektir.Etkileşimli seçenek standart yoldur, ancak daha ileri düzey kullanıcılar, birden fazla kurulumu standartlaştırmak ve daha fazla özelleştirme eklemek için bir web sunucusundan bir yapılandırma dosyasını içe aktarmak üzere otomatik kurulum seçeneğini kullanabilirler. <br><br>
+![resim](u5.jpeg)<br><br>
+5.6 Varsayılan seçim ve genişletilmiş seçim seçenekleri arasında seçim yapmanız istenecektir.Biz varsayılanı seçiyoruz. <br><br>
+![resim](u6.jpeg)<br><br>
+5.7 Aşağıdaki ekranda, cihaz desteği ve performansı , ek medya desteğini arttırabilecek üçüncü taraf yazılımları yüklemeniz istenecektir. Bu kutuların her ikisini de işaretlemeniz önerilir.<br><br>
+![resim](u7.jpeg)<br><br>
+
+
+
 
 
 
